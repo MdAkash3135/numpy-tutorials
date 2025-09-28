@@ -1,0 +1,1 @@
+Vectorization is the process of performing the same operation in the same way for each element in an array. This removes for loops from your code but achieves the same result.
